@@ -1,5 +1,4 @@
-This is a sample text file,text is [D[D[D[D[D[D[D[D text is ok
+This is a sample text file,text is text is ok
+updating...
 
-$
-clear
-q
+
